@@ -1,1 +1,3 @@
-s Data Science?s Data Science?s Data Science?s Data Science?
+s = '99'
+t = 2
+print(s + t)
